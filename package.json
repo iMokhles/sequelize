@@ -69,7 +69,7 @@
     "rimraf": "^2.x",
     "sinon": "^6.3.5",
     "sinon-chai": "^3.2.0",
-    "sqlite3": "^4.0.2",
+    "sqlite3": "4.0.3",
     "tedious": "^3.0.1"
   },
   "keywords": [
